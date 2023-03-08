@@ -6,4 +6,6 @@ After a month, as in the case of the first project, I introduce an improvement i
 
 Before the site was loading 17.5mb transferred and 20mb resources and finish time was 42s.
 
-After optimization it takes only 3.7mb transferred and 6.3mb resources. The finish time is
+After optimization it takes only 3.5mb transferred and 5.3mb resources. The finish time is ~4-5s.
+
+Tools: Three.js, JavaScript, html, css, blender, webpack, node.js
